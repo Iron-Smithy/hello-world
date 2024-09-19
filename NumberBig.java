@@ -1,4 +1,4 @@
-public class Main {
+public class NumberBig {
   public static void main(String[] args) {
     int result = sum(1_742_609);
     System.out.println(result);
